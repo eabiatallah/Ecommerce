@@ -1,0 +1,7 @@
+https://stripe.com/docs/testing
+
+-- SSL
+https://github.com/darbyluv2code/fullstack-angular-and-springboot/blob/master/bonus-content/secure-https-communication/openssl-setup.md#ms-windows
+
+-- BE
+https://github.com/darbyluv2code/fullstack-angular-and-springboot/blob/master/bonus-content/secure-https-communication/keytool-steps.md

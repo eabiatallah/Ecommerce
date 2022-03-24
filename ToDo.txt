@@ -1,0 +1,5 @@
+-- Check if customer email address exists, do not create a new customer. Use existing customer id.
+-- Angular and Login Screen + spring Security
+-- Customer Registration / email activation link / 
+-- orders / customer history
+-- Enhance UI Design
